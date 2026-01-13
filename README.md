@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ### 4. **Open in Browser**
-- The app will start running at http://localhost:5000
+- The app will start running at `http://localhost:5000`
 
 ## Screenshot
 
