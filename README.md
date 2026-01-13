@@ -16,7 +16,7 @@ A secure and efficient Note-Taking Web Application built with **Python (Flask)**
 ## Project Structure
 flask-note-app/
 ├── website/                # Main application package
-│   ├── static/             # Client-Side Script
+│   ├── static/             # Asynchronous Request Handler
 │   ├── templates/          # HTML Templates
 │   ├── __init__.py         # App factory & DB initialization
 │   ├── auth.py             # Authentication routes (Login/Signup)
